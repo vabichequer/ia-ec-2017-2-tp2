@@ -11,10 +11,11 @@ Utilizando a biblioteca de algoritmos de aprendizagem de máquina Scikit-Learn, 
 ### Bases de Dados sugeridas:
 - http://datapoa.com.br/dataset?res_format=CSV (Variado)
 - http://www.cs.waikato.ac.nz/ml/proper/datasets.html (Variado)
-- http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html (Regressão)
+- http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html (Regressão, PLN)
 - https://inclass.kaggle.com/c/si650winter11 (Classificação)
 - http://www.technologyforge.net/Datasets/ (Variado)
-- https://github.com/bluenex/WekaLearningDataset
+- https://github.com/bluenex/WekaLearningDataset (Variado)
+- http://scikit-learn.org/stable/datasets/index.html (Variado)
 
 ### Repositório: 
 Enviar email da conta do GitHub para henrique.santos.003@acad.pucrs.br para receber acesso.

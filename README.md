@@ -23,13 +23,13 @@ Enviar email da conta do GitHub para henrique.santos.003@acad.pucrs.br para rece
 Scikit-Learn, GitHub, Jupyter Notebook, Pandas e Python
 
 ### Resultado: 
-Apresentação do Notebook em Aula nos dia 5/10/2017 e 10/10/2017
+Apresentação do Notebook em Aula no dia 10/10/2017
 
 ### Prazo: 
-A versão final do Notebook deve ser enviada ao GitHub até o dia 5/10/2017
+A versão final do Notebook deve ser enviada ao GitHub até o dia 10/10/2017
 
 ### Grupo:
-2 à 3 pessoas
+2 pessoas
 
 ### Referências:
 - http://scikit-learn.org/

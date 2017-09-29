@@ -52,7 +52,7 @@ A versão final do Notebook deve ser enviada ao GitHub até o dia 10/10/2017
 - [ ] Explicação da Base de dados
 - [ ] Explicação do Algoritmo Escolhido
 - [ ] Explicação dos Parâmetros Escolhidos
-- [ ] Explicação da Validação Cruzado
+- [ ] Explicação da Validação Cruzada
 - [ ] Explicação da Avaliação
 
 ### Referências:

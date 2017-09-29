@@ -28,12 +28,14 @@ Scikit-Learn, GitHub, Jupyter Notebook, Pandas e Python
 - 15 Minutos de Apresentação por Grupo
 
 ### Prazo: 
-A versão final do Notebook deve ser enviada ao GitHub até o dia 10/10/2017
+A versão final do Notebook deve ser enviada ao GitHub até o dia 10/10/2017 às 19:00
 
 ### Grupo:
-2 pessoas (cada dupla sobe um arquivo ipynb)
+ - 2 pessoas
+ - cada dupla envia um arquivo ipynb com seus primeiros nomes
+ - Ex.: fulano1_funalo2.ipynb
 
-### Avaliação (16):
+### Avaliação (17):
 
 #### Tecnologias (10):
 - [ ] GitHub
@@ -47,7 +49,8 @@ A versão final do Notebook deve ser enviada ao GitHub até o dia 10/10/2017
 - [ ] Validação Cruzada
 - [ ] Avaliação
 
-#### Apresentação (6):
+#### Apresentação (7):
+- [ ] Prazo de Entrega
 - [ ] Organização do Jupyter Notebook
 - [ ] Explicação da Base de dados
 - [ ] Explicação do Algoritmo Escolhido

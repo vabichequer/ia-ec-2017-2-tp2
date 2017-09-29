@@ -30,7 +30,29 @@ Apresentação do Notebook em Aula no dia 10/10/2017
 A versão final do Notebook deve ser enviada ao GitHub até o dia 10/10/2017
 
 ### Grupo:
-2 pessoas
+2 pessoas (cada dupla sobe um arquivo ipynb)
+
+### Avaliação (16):
+
+#### Tecnologias (10):
+- [ ] GitHub
+- [ ] Python
+- [ ] Jupyter Notebook
+- [ ] Sklearn
+- [ ] Pandas
+- [ ] NumPy
+- [ ] Pré-Processamento
+- [ ] Classificação/Regressão
+- [ ] Validação Cruzada
+- [ ] Avaliação
+
+#### Apresentação (6):
+- [ ] Organização do Jupyter Notebook
+- [ ] Explicação da Base de dados
+- [ ] Explicação do Algoritmo Escolhido
+- [ ] Explicação dos Parâmetros Escolhidos
+- [ ] Explicação da Validação Cruzado
+- [ ] Explicação da Avaliação
 
 ### Referências:
 - http://scikit-learn.org/
